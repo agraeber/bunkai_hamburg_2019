@@ -20,3 +20,15 @@ cl_demo_output=>display_html( html ).
 * Bugfix
 * Bugfix
 * Bugfix
+
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
+* Weiterentwicklung
